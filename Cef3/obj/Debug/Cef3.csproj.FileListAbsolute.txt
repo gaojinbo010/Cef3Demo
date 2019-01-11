@@ -1,0 +1,18 @@
+E:\luoyi\Projects\dotnet\cwber\output\Cef3.xml
+E:\luoyi\Projects\dotnet\cwber\output\Cef3.dll
+E:\luoyi\Projects\dotnet\cwber\output\Cef3.pdb
+E:\luoyi\Projects\dotnet\cwber\Cef3\obj\Debug\Cef3.csprojResolveAssemblyReference.cache
+E:\luoyi\Projects\dotnet\cwber\Cef3\obj\Debug\Cef3.dll
+E:\luoyi\Projects\dotnet\cwber\Cef3\obj\Debug\Cef3.pdb
+D:\Users\jinbo\Downloads\ChromeWebBrowser.net-realse-1.1.0.0\ChromeWebBrowser.net-realse-1.1.0.0\source\cwber\output\Cef3.xml
+D:\Users\jinbo\Downloads\ChromeWebBrowser.net-realse-1.1.0.0\ChromeWebBrowser.net-realse-1.1.0.0\source\cwber\output\Cef3.dll
+D:\Users\jinbo\Downloads\ChromeWebBrowser.net-realse-1.1.0.0\ChromeWebBrowser.net-realse-1.1.0.0\source\cwber\output\Cef3.pdb
+D:\Users\jinbo\Downloads\ChromeWebBrowser.net-realse-1.1.0.0\ChromeWebBrowser.net-realse-1.1.0.0\source\cwber\Cef3\obj\Debug\Cef3.csprojResolveAssemblyReference.cache
+D:\Users\jinbo\Downloads\ChromeWebBrowser.net-realse-1.1.0.0\ChromeWebBrowser.net-realse-1.1.0.0\source\cwber\Cef3\obj\Debug\Cef3.dll
+D:\Users\jinbo\Downloads\ChromeWebBrowser.net-realse-1.1.0.0\ChromeWebBrowser.net-realse-1.1.0.0\source\cwber\Cef3\obj\Debug\Cef3.pdb
+G:\MS_Study Demo\ChromiumNET\output\Cef3.xml
+G:\MS_Study Demo\ChromiumNET\output\Cef3.dll
+G:\MS_Study Demo\ChromiumNET\output\Cef3.pdb
+G:\MS_Study Demo\ChromiumNET\Cef3\obj\Debug\Cef3.csprojResolveAssemblyReference.cache
+G:\MS_Study Demo\ChromiumNET\Cef3\obj\Debug\Cef3.dll
+G:\MS_Study Demo\ChromiumNET\Cef3\obj\Debug\Cef3.pdb

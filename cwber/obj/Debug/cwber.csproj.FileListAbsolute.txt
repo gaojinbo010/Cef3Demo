@@ -1,0 +1,21 @@
+E:\luoyi\Projects\dotnet\cwber\output\cwber.dll
+E:\luoyi\Projects\dotnet\cwber\output\cwber.pdb
+E:\luoyi\Projects\dotnet\cwber\cwber\obj\Debug\cwber.csprojResolveAssemblyReference.cache
+E:\luoyi\Projects\dotnet\cwber\cwber\obj\Debug\Sashulin.ChromeWebBrowser.resources
+E:\luoyi\Projects\dotnet\cwber\cwber\obj\Debug\cwber.csproj.GenerateResource.Cache
+E:\luoyi\Projects\dotnet\cwber\cwber\obj\Debug\cwber.dll
+E:\luoyi\Projects\dotnet\cwber\cwber\obj\Debug\cwber.pdb
+D:\Users\jinbo\Downloads\ChromeWebBrowser.net-realse-1.1.0.0\ChromeWebBrowser.net-realse-1.1.0.0\source\cwber\output\cwber.dll
+D:\Users\jinbo\Downloads\ChromeWebBrowser.net-realse-1.1.0.0\ChromeWebBrowser.net-realse-1.1.0.0\source\cwber\output\cwber.pdb
+D:\Users\jinbo\Downloads\ChromeWebBrowser.net-realse-1.1.0.0\ChromeWebBrowser.net-realse-1.1.0.0\source\cwber\cwber\obj\Debug\cwber.csprojResolveAssemblyReference.cache
+D:\Users\jinbo\Downloads\ChromeWebBrowser.net-realse-1.1.0.0\ChromeWebBrowser.net-realse-1.1.0.0\source\cwber\cwber\obj\Debug\Sashulin.ChromeWebBrowser.resources
+D:\Users\jinbo\Downloads\ChromeWebBrowser.net-realse-1.1.0.0\ChromeWebBrowser.net-realse-1.1.0.0\source\cwber\cwber\obj\Debug\cwber.csproj.GenerateResource.Cache
+D:\Users\jinbo\Downloads\ChromeWebBrowser.net-realse-1.1.0.0\ChromeWebBrowser.net-realse-1.1.0.0\source\cwber\cwber\obj\Debug\cwber.dll
+D:\Users\jinbo\Downloads\ChromeWebBrowser.net-realse-1.1.0.0\ChromeWebBrowser.net-realse-1.1.0.0\source\cwber\cwber\obj\Debug\cwber.pdb
+G:\MS_Study Demo\ChromiumNET\output\cwber.dll
+G:\MS_Study Demo\ChromiumNET\output\cwber.pdb
+G:\MS_Study Demo\ChromiumNET\cwber\obj\Debug\cwber.csprojResolveAssemblyReference.cache
+G:\MS_Study Demo\ChromiumNET\cwber\obj\Debug\Sashulin.ChromeWebBrowser.resources
+G:\MS_Study Demo\ChromiumNET\cwber\obj\Debug\cwber.csproj.GenerateResource.Cache
+G:\MS_Study Demo\ChromiumNET\cwber\obj\Debug\cwber.dll
+G:\MS_Study Demo\ChromiumNET\cwber\obj\Debug\cwber.pdb

@@ -1,0 +1,7 @@
+G:\MS_Study Demo\ChromiumNET\cwber\obj\Debug\ChromiumNET.CWBER.csprojResolveAssemblyReference.cache
+G:\MS_Study Demo\ChromiumNET\cwber\obj\Debug\Sashulin.ChromeWebBrowser.resources
+G:\MS_Study Demo\ChromiumNET\cwber\obj\Debug\ChromiumNET.CWBER.csproj.GenerateResource.Cache
+G:\MS_Study Demo\ChromiumNET\output\ChromiumNET.CWBER.dll
+G:\MS_Study Demo\ChromiumNET\output\ChromiumNET.CWBER.pdb
+G:\MS_Study Demo\ChromiumNET\cwber\obj\Debug\ChromiumNET.CWBER.dll
+G:\MS_Study Demo\ChromiumNET\cwber\obj\Debug\ChromiumNET.CWBER.pdb
